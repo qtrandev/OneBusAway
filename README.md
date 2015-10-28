@@ -47,4 +47,4 @@ GTFS-realtime feeds of transit agencies
 [![Tampa HART OneBusAway Enterprise](http://tampa.onebusaway.org/enterprise/css/img/agency_logo.gif)](http://tampa.onebusaway.org/enterprise/)  
 [Tampa OneBusAway Web](http://tampa.onebusaway.org)  
 [Seattle Puget Sound](http://pugetsound.onebusaway.org)  
-[Atlanta](http://atlanta.onebusaway.org)  
+[Atlanta MARTA](http://atlanta.onebusaway.org)  
