@@ -37,3 +37,7 @@ GTFS-realtime feeds of transit agencies
 ### Install
 
 #### Refer to the [wiki](../../wiki) for the instructions.
+
+## Other Agencies Using OneBusAway
+
+[![MTA Bus Time](http://bustime.mta.info/css/img/onebusaway-nyc.png)](http://bustime.mta.info)
