@@ -40,4 +40,7 @@ GTFS-realtime feeds of transit agencies
 
 ## Other Agencies Using OneBusAway
 
-[![MTA Bus Time](http://bustime.mta.info/css/img/onebusaway-nyc.png)](http://bustime.mta.info)
+[![MTA Bus Time](http://bustime.mta.info/css/img/onebusaway-nyc.png)](http://bustime.mta.info)  
+[Tampa HART](http://tampa.onebusaway.org)  
+[Seattle Puget Sound](http://pugetsound.onebusaway.org)  
+[Atlanta](http://atlanta.onebusaway.org)  
