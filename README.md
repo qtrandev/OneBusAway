@@ -16,7 +16,11 @@ Prototype
 
 ### Screenshots
 OneBusAway Android app with Miami-Dade Transit and Broward County transit data:  
-![OneBusAway Android app](https://slack-files.com/files-tmb/T02CRU2SU-F0D4B8FGQ-cb0bf99dee/screenshot_2015-10-24-00-09-44_720.png)
+![OneBusAway Android app](https://slack-files.com/files-tmb/T02CRU2SU-F0D4B8FGQ-cb0bf99dee/screenshot_2015-10-24-00-09-44_720.png)  
+
+
+OneBusAway Android app showing upcoming bus arrivals:  
+![OneBusAway Android app trip updates delay](https://github.com/qtrandev/OneBusAway/blob/master/images/android-gtfs-realtime.png)  
 
 ## Why
 The transportation system in South Florida is a mess. Real-time tracking is greatly lacking and every county and city has their own system. Systems don’t integrate with each other. Each system have their own app that takes years and millions of dollars to build then become outdated. Real-time and schedule data is stuck in each proprietary system. We need to change that. We need to open up the data so popular services like Google Maps can access the data. We are behind other cities such as NYC, San Francisco, and Seattle where real-time bus and train arrivals are common.
