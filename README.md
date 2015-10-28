@@ -22,7 +22,7 @@ OneBusAway Android app with Miami-Dade Transit and Broward County transit data:
 OneBusAway Android app showing upcoming bus arrivals:  
 ![OneBusAway Android app trip updates delay](https://github.com/qtrandev/OneBusAway/blob/master/images/android-gtfs-realtime.png)  
 
-Web interface (we may want to move to NYC version):  
+Web interface (we may want to move to NYC and Tampa versions):  
 ![Webapp map](https://github.com/qtrandev/OneBusAway/blob/master/images/webapp-map.png)  
 
 ## Why
