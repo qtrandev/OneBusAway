@@ -1,0 +1,8 @@
+route_id,route_short_name,route_long_name,route_type
+2,Allapattah,Allapattah,3
+6,Biscayne,Biscayne,3
+5,Brickell,Brickell,3
+7,Coral Way,Coral Way,3
+3,Health District,Health District,3
+1,Overtown,Overtown,3
+4,Stadium,Stadium,3

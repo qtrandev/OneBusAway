@@ -1,0 +1,8 @@
+route_id,service_id,trip_id,trip_headsign
+2,1,2,Allapattah
+6,1,6,Biscayne
+5,1,5,Brickell
+7,1,7,Coral Way
+3,1,3,Health District
+1,1,1,Overtown
+4,1,4,Stadium
