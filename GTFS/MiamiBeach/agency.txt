@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+"",City Of Miami Beach,http://www.miamibeachfl.gov/Transportation/Default.aspx?id=80881,America/New_York,en,"",""

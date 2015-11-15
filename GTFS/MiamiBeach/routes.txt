@@ -1,0 +1,3 @@
+route_id,route_short_name,route_long_name,route_type
+1,Alton West,Alton West Trolley (AWT) Route,3
+2,North Beach,North Beach Trolley (NBT) Route,3

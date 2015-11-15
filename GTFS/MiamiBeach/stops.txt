@@ -1,0 +1,54 @@
+stop_id,stop_name,stop_lat,stop_lon
+2001,"West Avenue and Lincoln Road",25.790500,-80.142500
+2002,"West Avenue and 16 Street",25.788903,-80.142467
+2003,"West Avenue and 15 Terrace",25.788062,-80.142435
+2004,"West Avenue and 14 Terrace",25.785898,-80.142350
+2005,"West Avenue and 14 Street",25.785078,-80.142339
+2006,"West avenue and 13 Street",25.784007,-80.142311
+2007,"West Avenue and 11 Street",25.781705,-80.142234
+2008,"West Avenue and 10 Street",25.780500,-80.142200
+2009,"West Avenue and 8 Street",25.778203,-80.142123
+2010,"West Avenue and 6 Street",25.775700,-80.141900
+2011,"6 Street and Lenox Avenue",25.775700,-80.139600
+2012,"5 Street and Lenox Avenue",25.774502,-80.139572
+2013,"Alton Road and 6 Street",25.775807,-80.140689
+2014,"Alton Road and 8 Street",25.778253,-80.140741
+2015,"Alton Road and 9 Street",25.779327,-80.140779
+2016,"Alton Road and 10 Street",25.780587,-80.140846
+2017,"Alton Road and 11 Street",25.782010,-80.140887
+2018,"Alton Road and 13 Street",25.784034,-80.140938
+2020,"Alton Road and 15 Street",25.787507,-80.141076
+300,"65th Street Allison Park",25.848413,-80.120868
+301,"67th Street and Collins Avenue",25.850411,-80.120291
+302,"Publix at Collins Avenue and 69th Street",25.854116,-80.120410
+303,"Bandshell Park",25.857759,-80.120712
+304,"Collins Avenue and 75th Street North Shore Library",25.861075,-80.121038
+306,"79th Street and Collins Avenue",25.864335,-80.121074
+308,"Collins Avenue and 83rd Street North Shore Park",25.868298,-80.121220
+309,"85th Street and Collins Avenue",25.870317,-80.121360
+310,"87th Street Last stop on Collins Avenue",25.871933,-80.121489
+312,"Harding Avenue and 87th Street Stella Maris",25.872164,-80.122233
+313,"85th Street Last stop on Harding Avenue",25.870403,-80.122499
+316,"85th Street",25.869783,-80.127155
+317,"Hawthorne Avenue and 84th Street Stillwater park",25.868932,-80.128642
+319,"81st Street and Hawthorne Avenue",25.866750,-80.128599
+321,"Hawthorne Avenue and 79th Street Crespi Park",25.863184,-80.128490
+323,"Biscayne Elementary Lehrman Day School",25.862021,-80.126155
+324,"Temple Menorah",25.860142,-80.125447
+325,"North Shore Park and Youth Center",25.858261,-80.123523
+326,"Major Transfer to Miami Dade Bus",25.857179,-80.122388
+327,"US Post Office",25.856058,-80.123573
+328,"71st Street and Bonita Dr.",25.856018,-80.126227
+329,"Normandy Drive and Rue Versailles Drive",25.855794,-80.129530
+331,"Nomandy Dr. and Rue Notre Dame",25.855033,-80.133098
+333,"Normandy Dr. and Rue Bordeaux Dr.",25.853325,-80.135821
+334,"Normandy Isle Park and Pool",25.852373,-80.138052
+335,"Rue Granville Last stop on Normandy Drive",25.852255,-80.140341
+336,"71st Street and Biarritz Dr.",25.851262,-80.141461
+337,"71st Street and Rue Granville",25.851299,-80.139762
+338,"71st Street and Trouville Esplanade",25.851648,-80.136990
+339,"71st Street and Rue Bordeaux Drive",25.852901,-80.134767
+340,"71st Street and Rue Notre Dame",25.854373,-80.132124
+341,"71st Street and Rue Versailles Dr.",25.854903,-80.129334
+342,"Bay Drive Last stop on 71st Street",25.855918,-80.127436
+344,"69th Street Last stop on Indian Creek",25.855086,-80.124442

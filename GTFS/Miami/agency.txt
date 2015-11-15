@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
-"",City Of Miami,http://www.miamigov.com/trolley/,America/New York,en,"",""
+"",City Of Miami,http://www.miamigov.com/trolley/,America/New_York,en,"",""
