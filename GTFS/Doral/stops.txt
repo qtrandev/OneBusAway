@@ -1,0 +1,164 @@
+stop_id,stop_name,stop_lat,stop_lon
+1001,AutoNation Chevrolet Doral,25.783278,-80.339603
+1002,Cafe Lago,25.783473,-80.348302
+1003,Toyota of South Florida,25.783529,-80.353528
+1004,Miami Int'l Mall (Esserman Acura),25.782756,-80.363642
+1005,Miami Int'l Mall (TD Bank),25.78395,-80.366982
+1006,Miami Int'l Mall (Mattress Firm),25.7846,-80.368554
+1007,"Miami Int'l Mall (BJ's), NW 107 Ave & NW 14 St, Transfers to MDT Routes 7, 36B, 71, 137 & 238",25.786799,-80.368607
+1008,Bed Bath & Beyond Plaza,25.789994,-80.368708
+1009,"International Corporate Park, Transfer to MDT Route 36B",25.791986,-80.368757
+1010,Doral Academy Middle School,25.798208,-80.37712
+1011,Doral Academy High School,25.7988,-80.373497
+1012,"2617 Northwest 107th Avenue, Transfer to MDT Route 36B",25.7988,-80.3691
+1013,"Mercantil Bank (Aloft), Transfers to Route 2 & MDT Route 36B",25.802532,-80.36918
+1014,Veteran's Park,25.804288,-80.361513
+1015,Costa Verde,25.80429,-80.355828
+1016,"Costa del Sol, Transfer to Route 2",25.805068,-80.353216
+1017,Millennia Atlantic University,25.809868,-80.353368
+1018,"Doral Center (Walgreens), NW 97 Ave & NW 41 St, Transfers to Route 2 & MDT Routes 36B & 95",25.8125,-80.353189
+1019,Golden View Estates,25.8161,-80.3533
+1020,Doral Oaks,25.8216,-80.3578
+1021,"Morgan Leavy Park, NW 52 St & NW 102 Ave, Transfer to Route 3",25.820853,-80.360592
+1022,John I Smith K-8 Center,25.821159,-80.36635
+1023,Doral Sands,25.821956,-80.368409
+1024,NW 107 Ave & NW 50 St,25.819434,-80.369821
+1025,Doral Terrace,25.81891,-80.3723
+1026,"Doral Middle School, NW 50 St & NW 112 Ave",25.8189,-80.3753
+1027,"Trails & Tails Park, NW 114 Ave & NW 50 St, Transfer to Route 3",25.819346,-80.381728
+1028,Las Cascadas,25.822905,-80.381838
+1029,"E.B. Thomas K-8 & Doral Meadows Park, NW 114 Ave & NW 58 St, Transfer to Route 3",25.8267,-80.3819
+1030,Doral Isles,25.8292,-80.3822
+1031,The Courts,25.832,-80.3832
+1032,Doral Isles,25.8357,-80.3833
+1033,Polynesian,25.8389,-80.3823
+1034,Polynesian,25.842705,-80.382373
+1035,Northwest 114th Avenue,25.8452,-80.3819
+1036,Islands at Doral Club House,25.8499,-80.3788
+1037,"Dr. Rolando Espinosa K-8 Center, NW 114 Ave & NW 86 St, Transfer to Route 3",25.8519,-80.3786
+1038,Ibis Villas,25.854068,-80.378689
+1039,Northwest 109th Avenue,25.8546,-80.3748
+1040,Ronald Reagan High School,25.8533,-80.3744
+1041,"Ronald Reagan High School,  NW 88 St & NW 107 Ave, Transfer to Route 3",25.8533,-80.3717
+1042,Islands of Doral II,25.851035,-80.370738
+1043,Leeward,25.848802,-80.370643
+1044,Antilles,25.8472,-80.3706
+1045,Antilles,25.8448,-80.374
+1046,Corsica,25.8443,-80.3769
+1047,Galapagos,25.844331,-80.380389
+1048,Northwest 114th Avenue,25.8433,-80.3825
+1049,Barbados,25.837827,-80.382732
+1050,6650 Northwest 114th Avenue,25.8356,-80.3835
+1051,6600 Northwest 114th Avenue,25.8317,-80.3833
+1052,"E.B. Thomas K-8 & Doral Meadows Park, NW 114 Ave & NW 58 St, Transfer to Route 3",25.829371,-80.382446
+1053,Brisas of Doral,25.824407,-80.381951
+1054,Trails & Tails Park,25.819551,-80.381817
+1055,"Doral Middle School, NW 50 St & NW 112 Ave (Temporary Location due to Construction on NW 50 St)",25.818835,-80.378069
+1056,Doral Terrace,25.8207,-80.3738
+1057,Costa Linda,25.8242,-80.3739
+1058,"Bella Plaza (Sedanos), NW 107 Ave & NW 58 St, Transfer to Route 3",25.825,-80.37
+1059,Doral Sands,25.821786,-80.369086
+1060,Doral Palms,25.820799,-80.366093
+1061,John I Smith K-8 Center,25.819508,-80.363893
+1062,"Morgan Leavy Park, NW 52 St & NW 102 Ave, Transfer to Route 3",25.820323,-80.361153
+1063,Doral Lakes,25.821014,-80.356089
+1064,The Greens,25.815389,-80.353462
+1065,Doral Plaza (Starbucks),25.813947,-80.353404
+1066,"9690 Plaza (Einstein Bagels), NW 41 St & NW 97 Ave, Transfers to Route 2 & MDT Routes 36B & 95",25.8116,-80.3523
+1067,Miami-Dade Fire Rescue,25.811525,-80.34893
+1068,Federal Reserve,25.8109,-80.3446
+1069,CitiBank,25.8101,-80.3389
+1070,"Doral Commerce Center, , Transfers to Route 2 & MDT Routes 36, 87, 95 & 132",25.809259,-80.337495
+1071,"NW 87 Ave & NW 33 St, NW 87 Ave & NW 33 St, Transfers to Route 2 & MDT Routes 87 & 95",25.8048,-80.3374
+1072,"Doral Central Park, Transfers to MDT Routes 87 & 95",25.801,-80.3373
+1073,"NW 87 Ave & NW 25 St,(Stop Currently Closed, use stop 1072) Transfers to MDT Routes 87 & 238",25.7976,-80.3372
+1074,"NW 87 Ave & NW 25 St, NW 87 Ave & NW 25 St, Transfers to MDT Routes 87 & 238",25.7962,-80.3371
+1075,Red Lobster,25.7898,-80.335773
+1076,Sam's Club,25.785651,-80.332304
+1077,McDonald's,25.783541,-80.332246
+2001,"Palmetto MetroRail Station, Transfers to Route 3, MDT Green Line, Route 87",25.8443,-80.3237
+2002,5680 Northwest 87th Avenue,25.825602,-80.337884
+2003,"8405 Northwest 53rd Street, Transfers to MDT Route 36, 87 & 132",25.819749,-80.336254
+2004,"Downtown Doral Park (SB), Transfers to MDT Route 36, 87 & 132",25.820017,-80.333876
+2005,"Doral Government Center (SB), Transfers to MDT Route 36, 87 & 132",25.820949,-80.33281
+2006,"Cordoba (SB), Transfers to MDT Route 36, 87 & 132",25.82153,-80.328228
+2007,"Doral Gardens II, Transfers to MDT Route 36 & 132",25.8188,-80.3256
+2008,"Doral Gardens II, Transfers to MDT Route 36 & 132",25.8169,-80.3255
+2009,"Doral Gardens I, Transfers to MDT Route 36 & 132",25.8142,-80.3255
+2010,Transfers to MDT Route 36 & 132,25.812,-80.3254
+2010,"4186-4266 Northwest 79th Avenue, Transfers to MDT Route 36 & 132",25.8124,-80.3254
+2011,"NW 79 Ave & NW 36 St, Transfers to MDT Route 36, 95 & 132",25.8095,-80.3253
+2012,Hampton Inn,25.8074,-80.3253
+2013,8001-8111 Northwest 33rd Street,25.8044,-80.3258
+2014,8201-8267 Northwest 33rd Street,25.8045,-80.3302
+2015,8431-8473 Northwest 33rd Street,25.8052,-80.3339
+2016,Carnival Cruise Line,25.8054,-80.3354
+2017,"Tony Romas, NW 33 St & NW 87 Ave, Transfers to Route 1 & MDT Routes 87 & 95",25.8054,-80.3377
+2018,Miami Herald,25.80509,-80.342195
+2019,Southern Command,25.8045,-80.3474
+2020,"Costa del Sol, NW 33 St & NW 97 Ave, Transfer to Route 1 & MDT Route 95",25.804419,-80.352785
+2021,"Costa del Sol (Opp. Veterans Park), Transfer to Route 1",25.804434,-80.362792
+2022,"Sears (Parts & Service), Transfer to Route 1",25.804434,-80.367836
+2023,"Abaco, Transfer to MDT Route 36B",25.804241,-80.371096
+2024,"11056-11166 Northwest 33rd Street, Transfer to MDT Route 36B",25.804246,-80.375605
+2025,"11369-11373 Northwest 34th Street, Transfer to MDT Route 36B",25.805069,-80.380093
+2026,"11447-11467 Northwest 34th Street, Transfer to MDT Route 36B",25.805059,-80.383308
+2027,"Miami-Dade College West, Transfer to MDT Route 36B",25.808905,-80.383876
+2028,Doral Shops Plaza,25.810901,-80.383921
+2029,"The Imagination Factory, Transfer to Route 3 & MDT Route 36B",25.811557,-80.379997
+2030,"10775 Northwest 41st Street, Transfer to Route 3 & MDT Route 36B",25.811557,-80.371795
+2031,"San Ignacio College, Transfer to Route 3 & MDT Route 36B",25.811561,-80.3687
+2032,"Hellmann, Transfer to Route 3 & MDT Route 36B",25.811552,-80.365073
+2033,"Costa del Sol , Transfer to Route 3 & MDT Route 36B",25.811547,-80.361195
+2034,"HSBC, Transfer to Route 1 & MDT Route 36B & 95",25.811552,-80.353795
+2035,"9690 Plaza (Einstein Bagels), Transfer to Route 1 & MDT Route 36B",25.811566,-80.352273
+2036,"Univison, Transfer to Route 1 & MDT Route 36B",25.8114,-80.3478
+2037,"Federal Reserve, Transfer to Route 1 & MDT Route 36B",25.810924,-80.3446
+2038,"American Welding Society, Transfer to Route 1 & MDT Route 36 & 87",25.811381,-80.337357
+2039,4101-4577 Northwest 87th Avenue,25.8141,-80.3373
+2040,5200-5274 Northwest 87th Avenue,25.818905,-80.337557
+2042,"Downtown Doral Park (NB), Transfers to MDT Route 36, 87 & 132",25.820025,-80.33392
+2043,"Doral Government Center (NB), Transfers to MDT Route 36, 87 & 132",25.820973,-80.332839
+2044,"Cordoba (NB), Transfers to MDT Route 36, 87 & 132",25.821572,-80.328233
+2045,5332-5352 Northwest 79th Avenue,25.822124,-80.325636
+2046,5401 Northwest 79th Avenue,25.824812,-80.325712
+3001,"Palmetto Metrorail Station, Transfers to Route 2, MDT MetroRail Green Line & Route 87",25.8437,-80.3239
+3002,"Northwest 74th Street, (Future Stop Location)",25.8408,-80.3547
+3003,"10700 Northwest 74th Street, (Future Stop Location)",25.8408,-80.3642
+3004,"NW 107 Ave & NW 41 St, Bank of America",25.839336,-80.370393
+3005,Doral Isles,25.832914,-80.370197
+3006,"Doral Isles Plaza (Publix), NW 107 Ave & NW 58 St",25.8282,-80.3701
+3007,"NW 58 St & NW 107 Ave, NW 58 St & NW 107 Ave, Transfer to Route 1",25.826159,-80.369238
+3008,Doral Palms,25.825636,-80.361999
+3009,Morgan Levy Park,25.822524,-80.361492
+3010,"NW 102 Ave & NW 52 St, Doral Cove, Transfer to Route 1",25.820378,-80.360051
+3011,Doral Place,25.8171,-80.36
+3012,Doral Dunes,25.8147,-80.361
+3013,"Aleman Building (Doral Park), NW 41 St & NW 102 Ave, Transfers to Route 2 & MDT route 36B",25.811748,-80.362127
+3014,"10379 Northwest 41st Street, Transfers to Route 2 & MDT route 36B",25.811777,-80.365379
+3015,"Wells Fargo, NW 41 St & NW 107 Ave, Transfers to Route 2 & MDT route 36B",25.811734,-80.3686
+3016,Palm Springs Mile Shopping Ctr,25.811743,-80.371295
+3017,"NW 114 Ave & NW 41 St, NW 114 Ave & NW 41 St, Transfers to Route 2 & MDT route 36B",25.8123,-80.381546
+3018,Balmoral Estates,25.8147,-80.3816
+3019,Biarritz,25.817005,-80.381679
+3020,"Trails & Tails Park, NW 114 Ave & NW 50 St, Transfer to Route 1",25.819347,-80.38175
+3021,Las Cascadas,25.8248,-80.3819
+3022,"E.B. Thomas K-8 & Doral Meadows Park, NW 114 Ave & NW 58 St, Transfer to Route 1",25.827,-80.3819
+3023,Doral Isles,25.8292,-80.3822
+3024,The Courts,25.8318,-80.3832
+3025,Doral Isles,25.8356,-80.3833
+3026,Polynesian,25.8389,-80.3823
+3027,Polynesian,25.842758,-80.382293
+3028,NW 114 Ave and N of 78 St,25.845181,-80.381935
+3029,Islands at Doral Club House,25.8491,-80.3792
+3030,"Dr. Rolando Espinosa K-8 Center, Transfer to Route 1",25.8519,-80.3786
+3031,Ibis Villas,25.854102,-80.37867
+3032,Northwest 109th Avenue,25.8546,-80.374784
+3033,Ronald Reagan High School,25.853314,-80.3741
+3034,"Ronald Reagan High School, Transfer to Route 1",25.85331,-80.3713
+3035,Islands of Doral II,25.8511,-80.3707
+3036,Leeward,25.848805,-80.370664
+3037,Antilles,25.846305,-80.370589
+3038,"NW 107 Ave & NW 41 St, NW 107 Ave & NW 41 St",25.842214,-80.37047
+3039,Doral Atlantic - 10700 Northwest 74th Street,25.840565,-80.367349
+3040,"Northwest 74th Street, (Future Stop Location)",25.8406,-80.3545
