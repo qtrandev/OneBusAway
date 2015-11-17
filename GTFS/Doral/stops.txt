@@ -85,7 +85,6 @@ stop_id,stop_name,stop_lat,stop_lon
 2007,"Doral Gardens II, Transfers to MDT Route 36 & 132",25.8188,-80.3256
 2008,"Doral Gardens II, Transfers to MDT Route 36 & 132",25.8169,-80.3255
 2009,"Doral Gardens I, Transfers to MDT Route 36 & 132",25.8142,-80.3255
-2010,Transfers to MDT Route 36 & 132,25.812,-80.3254
 2010,"4186-4266 Northwest 79th Avenue, Transfers to MDT Route 36 & 132",25.8124,-80.3254
 2011,"NW 79 Ave & NW 36 St, Transfers to MDT Route 36, 95 & 132",25.8095,-80.3253
 2012,Hampton Inn,25.8074,-80.3253
