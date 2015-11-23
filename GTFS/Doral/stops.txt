@@ -72,7 +72,7 @@ stop_id,stop_name,stop_lat,stop_lon
 1071,"NW 87 Ave & NW 33 St, NW 87 Ave & NW 33 St, Transfers to Route 2 & MDT Routes 87 & 95",25.8048,-80.3374
 1072,"Doral Central Park, Transfers to MDT Routes 87 & 95",25.801,-80.3373
 1073,"NW 87 Ave & NW 25 St,(Stop Currently Closed, use stop 1072) Transfers to MDT Routes 87 & 238",25.7976,-80.3372
-1074,"NW 87 Ave & NW 25 St, NW 87 Ave & NW 25 St, Transfers to MDT Routes 87 & 238",25.7962,-80.3371
+1074,"NW 87 Ave & NW 21 Ter, Transfers to MDT Route 87",25.793484,-80.336993
 1075,Red Lobster,25.7898,-80.335773
 1076,Sam's Club,25.785651,-80.332304
 1077,McDonald's,25.783541,-80.332246
