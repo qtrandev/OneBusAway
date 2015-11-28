@@ -1,8 +1,8 @@
 stop_id,stop_name,stop_lat,stop_lon
-1001,SE 4th Ave & Okee,
-1002,SE 4th Ave & Hialeah Dr,
-1003,E. 4th Ave & E. 7th ST,
-1004,E. 4th Ave & E.15th ST,
+1001,SE 4th Ave & Okee,25.817659,-80.273211
+1002,SE 4th Ave & Hialeah Dr,25.822824,-80.273645
+1003,E. 4th Ave & E. 7th ST,25.828066,-80.273414
+1004,E. 4th Ave & E.15th ST,25.835143,-80.273707
 1005,E. 21st ST & E. 2nd AVE (Metrorail Station),
 1006,Palm Ave. & E. 23rd ST,
 1007,W. 29th ST & W. 2nd AVE,
@@ -46,8 +46,8 @@ stop_id,stop_name,stop_lat,stop_lon
 2001,Palm Ave & W. 5th ST (City Hall),25.825840,-80.281529
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
 2003,Hialeah Dr. & E. 4th AVE,25.822824,-80.273645
-2004,SE 8th Ave & Hialeah Dr,25.823069, -80.264721
-2005,SE 8th ST & SE. 8th CT,
+2004,SE 8th Ave & Hialeah Dr,25.823066,-80.264715
+2005,SE 8th ST & SE. 8th CT,25.815806,-80.263840
 2006,SE 10th Ave & SE. 4th ST,
 2007,SE 10th Ave & Hialeah Dr.,
 2008,E. 10th Ave & E. 9th ST,
@@ -120,8 +120,11 @@ stop_id,stop_name,stop_lat,stop_lon
  
 
 NO SIGNAGE FOUND:
+1001,SE 4th Ave & Okee,25.817659,-80.273211
+1002,SE 4th Ave & Hialeah Dr,25.822824,-80.273645
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
-2004,SE 8th Ave & Hialeah Dr,25.823069, -80.264721
+2004,SE 8th Ave & Hialeah Dr,25.823066, -80.264715
+2005,SE 8th ST & SE. 8th CT,25.815806,-80.263840
 
 SIGN NOT CLEAR:
 2003,Hialeah Dr. & E. 4th AVE,25.822824,-80.273645
