@@ -16,22 +16,22 @@ stop_id,stop_name,stop_lat,stop_lon
 1015,W. 16th Ave. & W. 54th ST,25.871591,-80.315139
 1016,W. 60th St & W. 18th AVE,25.877125,-80.318923
 1017,W. 60th St & W. 22nd LN (Buckey Dent Park),25.877116,-80.328810
-1018,W. 24th Ave. & W. 62nd ST,
-1019,W. 28th Ave & W. 69th Ter,
-1020,W. 28th Ave & W. 73rd ST,
-1021,W. 76th ST & W. 29th Way,
-1022,W. 32nd Ave & W. 80th ST (Casas Park),
-1023,W. 76th ST & W. 29th Way,
-1024,W. 28th Ave. & W. 71st ST,
-1025,W. 68th ST & W. 26th DR (Lago Grande),
-1026,W. 24th Ave & W. 63rd ST (Lago Grande),
+1018,W. 24th Ave. & W. 62nd ST,25.879128,-80.331527
+1019,W. 28th Ave & W. 69th Ter,25.885124,-80.339540
+1020,W. 28th Ave & W. 73rd ST,25.889317,-80.339713
+1021,W. 76th ST & W. 29th Way,25.891596,-80.340990
+1022,W. 32nd Ave & W. 80th ST (Casas Park),25.895131,-80.348242
+1023,W. 76th ST & W. 29th Way,25.891596,-80.340990
+1024,W. 28th Ave. & W. 71st ST,25.887169,-80.339630
+1025,W. 68th ST & W. 26th DR (Lago Grande),25.884062,-80.335486
+1026,W. 24th Ave & W. 63rd ST (Lago Grande),25.880915,-80.331469
 1027,W. 60th ST & W. 22nd LN (Buckey Dent Park),25.877116,-80.328810
 1028,W. 60th ST & W. 18th AVE,25.877125,-80.318923
-1029,W. 16th Ave & W. 60th ST,
+1029,W. 16th Ave & W. 60th ST,25.876643,-80.315357
 1030,W. 16th Ave & W. 54th ST,25.871591,-80.315139
 1031,W. 16th Ave & W. 50th ST (Westland Mall),25.868748,-80.314514
 1032,W. 16th Ave & W. 44th PL,25.862230,-80.314640
-1033,W. 16th Ave & W. 40th ST (Hlh Speedway),
+1033,W. 16th Ave & W. 40th ST (Hlh Speedway),25.857905,-80.314721
 1034,W. 37th ST & W. 14th AVE,25.855310,-80.311707
 1035,W. 37th ST & W. 10th AVE (Mago Hill),25.855258,-80.302518
 1036,W. 8th Ave & W. 30th ST,25.848896,-80.298292
@@ -127,6 +127,8 @@ NO SIGNAGE FOUND:
 1013,W. 16th Ave. & W. 44th PL,25.862230,-80.314640
 1014,W. 16th Ave. & W. 50th ST (Westland Mall),25.868748,-80.314514
 1015,W. 16th Ave. & W. 54th ST,25.871591,-80.315139
+1018,W. 24th Ave. & W. 62nd ST,25.879128,-80.331527
+1022,W. 32nd Ave & W. 80th ST (Casas Park),25.895131,-80.348242
 1030,W. 16th Ave & W. 54th ST,25.871591,-80.315139
 1031,W. 16th Ave & W. 50th ST (Westland Mall),25.868748,-80.314514
 1032,W. 16th Ave & W. 44th PL,25.862230,-80.314640
@@ -141,3 +143,7 @@ SIGN NOT CLEAR:
 1006,Palm Ave. & E. 23rd ST,25.842092,-80.282020
 2003,Hialeah Dr. & E. 4th AVE,25.822824,-80.273645
 2035,W. 23rd ST & Palm Ave,25.842092,-80.282020
+
+ONLY BENCH FOUND:
+1024,W. 28th Ave. & W. 71st ST,25.887169,-80.339630
+1029,W. 16th Ave & W. 60th ST,25.876643,-80.315357
