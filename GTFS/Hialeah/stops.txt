@@ -11,11 +11,11 @@ stop_id,stop_name,stop_lat,stop_lon
 1010,W. 37th ST & W. 10th AVE,25.855258,-80.302518
 1011,W. 37th ST & W. 14th AVE,25.855310,-80.311707
 1012,W. 16th Ave. & W. 38th PL,25.856300,-80.314474
-1013,W. 16th Ave. & W. 44th PL,
-1014,W. 16th Ave. & W. 50th ST (Westland Mall),
-1015,W. 16th Ave. & W. 54th ST,
-1016,W. 60th St & W. 18th AVE,
-1017,W. 60th St & W. 22nd LN (Buckey Dent Park),
+1013,W. 16th Ave. & W. 44th PL,25.862230,-80.314640
+1014,W. 16th Ave. & W. 50th ST (Westland Mall),25.868748,-80.314514
+1015,W. 16th Ave. & W. 54th ST,25.871591,-80.315139
+1016,W. 60th St & W. 18th AVE,25.877125,-80.318923
+1017,W. 60th St & W. 22nd LN (Buckey Dent Park),25.877116,-80.328810
 1018,W. 24th Ave. & W. 62nd ST,
 1019,W. 28th Ave & W. 69th Ter,
 1020,W. 28th Ave & W. 73rd ST,
@@ -25,12 +25,12 @@ stop_id,stop_name,stop_lat,stop_lon
 1024,W. 28th Ave. & W. 71st ST,
 1025,W. 68th ST & W. 26th DR (Lago Grande),
 1026,W. 24th Ave & W. 63rd ST (Lago Grande),
-1027,W. 60th ST & W. 22nd LN (Buckey Dent Park),
-1028,W. 60th ST & W. 18th AVE,
+1027,W. 60th ST & W. 22nd LN (Buckey Dent Park),25.877116,-80.328810
+1028,W. 60th ST & W. 18th AVE,25.877125,-80.318923
 1029,W. 16th Ave & W. 60th ST,
-1030,W. 16th Ave & W. 54th ST,
-1031,W. 16th Ave & W. 50th ST (Westland Mall),
-1032,W. 16th Ave & W. 44th PL,
+1030,W. 16th Ave & W. 54th ST,25.871591,-80.315139
+1031,W. 16th Ave & W. 50th ST (Westland Mall),25.868748,-80.314514
+1032,W. 16th Ave & W. 44th PL,25.862230,-80.314640
 1033,W. 16th Ave & W. 40th ST (Hlh Speedway),
 1034,W. 37th ST & W. 14th AVE,25.855310,-80.311707
 1035,W. 37th ST & W. 10th AVE (Mago Hill),25.855258,-80.302518
@@ -124,6 +124,12 @@ NO SIGNAGE FOUND:
 1002,SE 4th Ave & Hialeah Dr,25.822824,-80.273645
 1005,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
 1009,W. 8th Ave & W. 30th ST,25.848896,-80.298292
+1013,W. 16th Ave. & W. 44th PL,25.862230,-80.314640
+1014,W. 16th Ave. & W. 50th ST (Westland Mall),25.868748,-80.314514
+1015,W. 16th Ave. & W. 54th ST,25.871591,-80.315139
+1030,W. 16th Ave & W. 54th ST,25.871591,-80.315139
+1031,W. 16th Ave & W. 50th ST (Westland Mall),25.868748,-80.314514
+1032,W. 16th Ave & W. 44th PL,25.862230,-80.314640
 1036,W. 8th Ave & W. 30th ST,25.848896,-80.298292
 1040,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
