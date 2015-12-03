@@ -3,14 +3,14 @@ stop_id,stop_name,stop_lat,stop_lon
 1002,SE 4th Ave & Hialeah Dr,25.822824,-80.273645
 1003,E. 4th Ave & E. 7th ST,25.828066,-80.273414
 1004,E. 4th Ave & E.15th ST,25.835143,-80.273707
-1005,E. 21st ST & E. 2nd AVE (Metrorail Station),
-1006,Palm Ave. & E. 23rd ST,
-1007,W. 29th ST & W. 2nd AVE,
-1008,W. 29th ST & W. 6th AVE,
-1009,W. 8th Ave & W. 30th ST,
-1010,W. 37th ST & W. 10th AVE,
-1011,W. 37th ST & W. 14th AVE,
-1012,W. 16th Ave. & W. 38th PL,
+1005,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
+1006,Palm Ave. & E. 23rd ST,25.842092,-80.282020
+1007,W. 29th ST & W. 2nd AVE,25.848276,-80.285835
+1008,W. 29th ST & W. 6th AVE,25.848088,-80.294046
+1009,W. 8th Ave & W. 30th ST,25.848896,-80.298292
+1010,W. 37th ST & W. 10th AVE,25.855258,-80.302518
+1011,W. 37th ST & W. 14th AVE,25.855310,-80.311707
+1012,W. 16th Ave. & W. 38th PL,25.856300,-80.314474
 1013,W. 16th Ave. & W. 44th PL,
 1014,W. 16th Ave. & W. 50th ST (Westland Mall),
 1015,W. 16th Ave. & W. 54th ST,
@@ -32,13 +32,13 @@ stop_id,stop_name,stop_lat,stop_lon
 1031,W. 16th Ave & W. 50th ST (Westland Mall),
 1032,W. 16th Ave & W. 44th PL,
 1033,W. 16th Ave & W. 40th ST (Hlh Speedway),
-1034,W. 37th ST & W. 14th AVE,
-1035,W. 37th ST & W. 10th AVE (Mago Hill),
-1036,W. 8th Ave & W. 30th ST,
-1037,W. 29th ST & W. 6th AVE,
-1038,W. 29th ST & W. 2nd AVE,
+1034,W. 37th ST & W. 14th AVE,25.855310,-80.311707
+1035,W. 37th ST & W. 10th AVE (Mago Hill),25.855258,-80.302518
+1036,W. 8th Ave & W. 30th ST,25.848896,-80.298292
+1037,W. 29th ST & W. 6th AVE,25.848088,-80.294046
+1038,W. 29th ST & W. 2nd AVE,25.848276,-80.285835
 1039,Palm Ave. & W. 24th ST,
-1040,E. 21st ST & E. 2nd AVE (Metrorail Station),
+1040,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
 1041,E. 4th Ave. & E. 15th ST,
 1042,E. 4th Ave. & E. 7th ST (Curtiss Library),
 1043,E. 4th Ave. & Hialeah Dr,
@@ -58,7 +58,7 @@ stop_id,stop_name,stop_lat,stop_lon
 2013,E. 25th ST & E. 5th AVE (CAC & Leon Medical Ctr),
 2014,E. 4th Ave & E. 29th ST,
 2015,E. 32nd ST & E. 2nd AVE,
-2016,Palrn Ave & E. 36th ST,
+2016,Palm Ave & E. 36th ST,
 2017,W. 41st ST & Palm Ave,
 2018,W. 44th PL & W. 4-5th AVE,
 2019,W. 44th PL & W. 10th AVE,
@@ -77,8 +77,8 @@ stop_id,stop_name,stop_lat,stop_lon
 2032,W. 8th Ave. & W. 25th ST (Telemundo),
 2033,W. 25th St & W. 5th AVE (Cotson Park),
 2034,W. 23rd ST & W. 3rd AVE,
-2035,W. 23rd ST & Palm Ave,
-2036,E. 1st Ave & E. 21st St (Metrorail Station),
+2035,W. 23rd ST & Palm Ave,25.842092,-80.282020
+2036,E. 1st Ave & E. 21st St (Metrorail Station),25.841013,-80.279739
 2037,Palm Ave & W. 19th ST,
 2038,Palm Ave & W. 13th ST,
 2039,Palm Ave & W. 5th St (City Hall),
@@ -117,14 +117,21 @@ stop_id,stop_name,stop_lat,stop_lon
 2063,W. 68th St. & W. 24th AVE,
 2064,W. 68th St. & W. 20th AVE (Palmetto Hospital),
 2065,W. 68th St. & W. 17th CT (Paraiso Shopping Ctr.),
- 
+
 
 NO SIGNAGE FOUND:
 1001,SE 4th Ave & Okee,25.817659,-80.273211
 1002,SE 4th Ave & Hialeah Dr,25.822824,-80.273645
+1005,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
+1009,W. 8th Ave & W. 30th ST,25.848896,-80.298292
+1036,W. 8th Ave & W. 30th ST,25.848896,-80.298292
+1040,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
 2004,SE 8th Ave & Hialeah Dr,25.823066, -80.264715
 2005,SE 8th ST & SE. 8th CT,25.815806,-80.263840
+2036,E. 1st Ave & E. 21st St (Metrorail Station),25.841013,-80.279739
 
 SIGN NOT CLEAR:
+1006,Palm Ave. & E. 23rd ST,25.842092,-80.282020
 2003,Hialeah Dr. & E. 4th AVE,25.822824,-80.273645
+2035,W. 23rd ST & Palm Ave,25.842092,-80.282020
