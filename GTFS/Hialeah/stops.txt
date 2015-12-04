@@ -37,28 +37,28 @@ stop_id,stop_name,stop_lat,stop_lon
 1036,W. 8th Ave & W. 30th ST,25.848896,-80.298292
 1037,W. 29th ST & W. 6th AVE,25.848088,-80.294046
 1038,W. 29th ST & W. 2nd AVE,25.848276,-80.285835
-1039,Palm Ave. & W. 24th ST,
+1039,Palm Ave. & W. 24th ST,25.843069,-80.282237
 1040,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
-1041,E. 4th Ave. & E. 15th ST,
-1042,E. 4th Ave. & E. 7th ST (Curtiss Library),
-1043,E. 4th Ave. & Hialeah Dr,
-1044,SE. 4th Ave & SE. 2nd ST,
+1041,E. 4th Ave. & E. 15th ST,25.835431,-80.273882
+1042,E. 4th Ave. & E. 7th ST (Curtiss Library),25.828473,-80.273624
+1043,E. 4th Ave. & Hialeah Dr,25.822190,-80.273373
+1044,SE. 4th Ave & SE. 2nd ST,25.823740,-80.273261
 2001,Palm Ave & W. 5th ST (City Hall),25.825840,-80.281529
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
 2003,Hialeah Dr. & E. 4th AVE,25.822824,-80.273645
 2004,SE 8th Ave & Hialeah Dr,25.823066,-80.264715
 2005,SE 8th ST & SE. 8th CT,25.815806,-80.263840
-2006,SE 10th Ave & SE. 4th ST,
-2007,SE 10th Ave & Hialeah Dr.,
-2008,E. 10th Ave & E. 9th ST,
-2009,E. 10th Ave & E. 17th ST,
-2010,E. 11th Ave & E. 26th ST (Metrorail),
-2011,E. 32nd ST & E. 10th AVE,
-2012,E. 25th ST & E. 7th AVE (Hialeah Hospital),
-2013,E. 25th ST & E. 5th AVE (CAC & Leon Medical Ctr),
-2014,E. 4th Ave & E. 29th ST,
-2015,E. 32nd ST & E. 2nd AVE,
-2016,Palm Ave & E. 36th ST,
+2006,SE 10th Ave & SE. 4th ST,25.826267,-80.261307
+2007,SE 10th Ave & Hialeah Dr.,25.823197,-80.261446
+2008,E. 10th Ave & E. 9th ST,25.830569,-80.261086
+2009,E. 10th Ave & E. 17th ST,25.837986,-80.261830
+2010,E. 11th Ave & E. 26th ST (Metrorail),25.846552,-80.260086
+2011,E. 32nd ST & E. 10th AVE,25.851824,-80.262402
+2012,E. 25th ST & E. 7th AVE (Hialeah Hospital),25.844733,-80.268384
+2013,E. 25th ST & E. 5th AVE (CAC & Leon Medical Ctr),25.844896,-80.271959
+2014,E. 4th Ave & E. 29th ST,25.848442,-80.274357
+2015,E. 32nd ST & E. 2nd AVE,25.851212,-80.278876
+2016,Palm Ave & E. 36th ST,25.855067,-80.282510
 2017,W. 41st ST & Palm Ave,
 2018,W. 44th PL & W. 4-5th AVE,
 2019,W. 44th PL & W. 10th AVE,
@@ -137,6 +137,13 @@ NO SIGNAGE FOUND:
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
 2004,SE 8th Ave & Hialeah Dr,25.823066, -80.264715
 2005,SE 8th ST & SE. 8th CT,25.815806,-80.263840
+2006,SE 10th Ave & SE. 4th ST,25.826267,-80.261307
+2007,SE 10th Ave & Hialeah Dr.,25.823197,-80.261446
+2008,E. 10th Ave & E. 9th ST,25.830569,-80.261086
+2009,E. 10th Ave & E. 17th ST,25.837986,-80.261830
+2010,E. 11th Ave & E. 26th ST (Metrorail),25.846552,-80.260086
+2011,E. 32nd ST & E. 10th AVE,25.851824,-80.262402
+2016,Palm Ave & E. 36th ST,25.855067,-80.282510
 2036,E. 1st Ave & E. 21st St (Metrorail Station),25.841013,-80.279739
 
 SIGN NOT CLEAR:
@@ -147,3 +154,9 @@ SIGN NOT CLEAR:
 ONLY BENCH FOUND:
 1024,W. 28th Ave. & W. 71st ST,25.887169,-80.339630
 1029,W. 16th Ave & W. 60th ST,25.876643,-80.315357
+1039,Palm Ave. & W. 24th ST,25.843069,-80.282237
+1041,E. 4th Ave. & E. 15th ST,25.835431,-80.273882
+1042,E. 4th Ave. & E. 7th ST (Curtiss Library),25.828473,-80.273624
+1043,E. 4th Ave. & Hialeah Dr,25.822190,-80.273373
+1044,SE. 4th Ave & SE. 2nd ST,25.823740,-80.273261
+2015,E. 32nd ST & E. 2nd AVE,25.851212,-80.278876
