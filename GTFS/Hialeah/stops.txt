@@ -89,7 +89,7 @@ stop_id,stop_name,stop_lat,stop_lon
 2045,W. 16th Ave & W. 50th ST (Westland Mall),25.868748,-80.314514
 2046,W. 16th Ave & W. 44th PL,25.862230,-80.314640
 2047,W. 16th Ave & W. 40th ST,25.857905,-80.314721
-2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135, -80.314593
+2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135,-80.314593
 2049,W. 16th Ave & Okeechobee,25.848764,-80.314265
 2050,W. 18th Ave & W. 35th ST (Westland Prom),25.853223,-80.318894
 2051,W. 18th Ave & (Hialeah Speedway),
@@ -97,26 +97,26 @@ stop_id,stop_name,stop_lat,stop_lon
 2053,W. 18th Ave & W. 43rd ST,25.861442,-80.318757
 2054,W. 18th Ave & W. 47th ST (MDCC),25.864775,-80.320158
 2055,W. 49th St. & NW 79th AVE,25.866516,-80.300704
-2056,W. 24th Ave. & W. 52nd ST,
-2057,W. 24th Ave. & W. 56th ST (Buckey Dent),
-2058,W. 60th St. & W. 24th PI (Publix),
-2059,W. 60th St. & W. 27th AVE,
-2060,28th Ave. & W. 65th ST,
-2061,W. 68th St. & W. 29th WAY,
-2062,W. 68th St. & W. 32nd AVE,
-2063,W. 68th St. & W. 36th AVE,
-2064,W. 36th Ave. & W. 74th ST,
-2065,W. 76th St. & W. 32nd AVE,
+2056,W. 24th Ave. & W. 52nd ST,25.870480,-80.330960
+2057,W. 24th Ave. & W. 56th ST (Buckey Dent),25.873684,-80.331323
+2058,W. 60th St. & W. 24th PL (Publix),25.877128,-80.330914
+2059,W. 60th St. & W. 27th AVE,25.829191,-80.241192
+2060,28th Ave. & W. 65th ST,25.834265,-80.241130
+2061,W. 68th St. & W. 29th WAY,25.835848,-80.241203
+2062,W. 68th St. & W. 32nd AVE,25.884045,-80.348200
+2063,W. 68th St. & W. 36th AVE,25.884178,-80.356199
+2064,W. 36th Ave. & W. 74th ST,25.889718,-80.355911
+2065,W. 76th St. & W. 32nd AVE,25.891427,-80.348851
 2066,W. 76th St. & W. 34th AVE,
 2067,W. 32nd Ave. & W. 80th ST (Casa Park),
 2068,W. 80th St. & W. 30th Ct,
 2069,W. 76th St. & W. 29th Way,
-2060,W. 76th St. & W. 27th AVE,
-2061,W. 76th St. & W. 24th AVE (Slade Park),
-2062,W. 24th Ave. & W. 72nd ST (Slade Park),
-2063,W. 68th St. & W. 24th AVE,
-2064,W. 68th St. & W. 20th AVE (Palmetto Hospital),
-2065,W. 68th St. & W. 17th CT (Paraiso Shopping Ctr.),
+2070,W. 76th St. & W. 27th AVE,
+2071,W. 76th St. & W. 24th AVE (Slade Park),
+2072,W. 24th Ave. & W. 72nd ST (Slade Park),
+2073,W. 68th St. & W. 24th AVE,
+2074,W. 68th St. & W. 20th AVE (Palmetto Hospital),
+2075,W. 68th St. & W. 17th CT (Paraiso Shopping Ctr.),
 
 
 NO SIGNAGE FOUND:
@@ -160,6 +160,10 @@ NO SIGNAGE FOUND:
 2038,Palm Ave & W. 13th ST,25.833710,-80.281849
 2050,W. 18th Ave & W. 35th ST (Westland Prom),25.853223,-80.318894
 2055,W. 49th St. & NW 79th AVE,25.866516,-80.300704
+2058,W. 60th St. & W. 24th PL (Publix),25.876913,-80.332617
+2060,28th Ave. & W. 65th ST,25.834265,-80.241130
+2061,W. 68th St. & W. 29th WAY,25.835848,-80.241203
+2064,W. 36th Ave. & W. 74th ST,25.889718,-80.355911
 
 SIGN NOT CLEAR:
 1006,Palm Ave. & E. 23rd ST,25.842092,-80.282020
@@ -183,3 +187,5 @@ ONLY BENCH FOUND:
 2041,W. 16th Ave & W. 68th ST,25.884272,-80.315994
 2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135, -80.314593
 2049,W. 16th Ave & Okeechobee,25.848764,-80.314265
+2056,W. 24th Ave. & W. 52nd ST,25.870480,-80.330960
+2057,W. 24th Ave. & W. 56th ST (Buckey Dent),25.873684,-80.331323
