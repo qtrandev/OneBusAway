@@ -59,44 +59,44 @@ stop_id,stop_name,stop_lat,stop_lon
 2014,E. 4th Ave & E. 29th ST,25.848442,-80.274357
 2015,E. 32nd ST & E. 2nd AVE,25.851212,-80.278876
 2016,Palm Ave & E. 36th ST,25.855067,-80.282510
-2017,W. 41st ST & Palm Ave,
-2018,W. 44th PL & W. 4-5th AVE,
-2019,W. 44th PL & W. 10th AVE,
-2020,W. 44th PL & W. 12th AVE,
-2021,W. 44th PL & W. 16th AVE,
-2022,W. 18th Ave & W. 43rd ST,
-2023,W. 18th Ave & W. 39th ST,
-2024,W. 16th Ave. & W. 37th ST (Hlh Speedway),
-2025,W. 41st ST & W. 14th AVE,
-2026,W. 12th Ave. & W. 39th PL,
-2027,W. 12th Ave. & W. 34th ST,
-2028,W. 12th Ave. & W. 30th ST,
-2029,W. 12th Ave. & W. 24th ST,
-2030,West Access Rd (Metrorail Station),
-2031,W. 8th Ave. & W. 20th ST,
-2032,W. 8th Ave. & W. 25th ST (Telemundo),
-2033,W. 25th St & W. 5th AVE (Cotson Park),
-2034,W. 23rd ST & W. 3rd AVE,
+2017,W. 41st ST & Palm Ave,25.860159,-80.282904
+2018,W. 44th PL & W. 4-5th AVE,25.862594,-80.291201
+2019,W. 44th PL & W. 10th AVE,25.862531,-80.302907
+2020,W. 44th PL & W. 12th AVE,25.862743,-80.306834
+2021,W. 44th PL & W. 16th AVE,25.862750,-80.314863
+2022,W. 18th Ave & W. 43rd ST,25.814747,-80.226160
+2023,W. 18th Ave & W. 39th ST,25.857024,-80.318609
+2024,W. 16th Ave. & W. 37th ST (Hlh Speedway),25.855313,-80.313930
+2025,W. 41st ST & W. 14th AVE,25.858896,-80.310634
+2026,W. 12th Ave. & W. 39th PL,25.857645,-80.306500
+2027,W. 12th Ave. & W. 34th ST,25.852677,-80.306551
+2028,W. 12th Ave. & W. 30th ST,25.848370,-80.306231
+2029,W. 12th Ave. & W. 24th ST,25.843931,-80.306310
+2030,West Access Rd (Metrorail Station),25.839839,-80.301052
+2031,W. 8th Ave. & W. 20th ST,25.840399,-80.297970
+2032,W. 8th Ave. & W. 25th ST (Telemundo),25.844158,-80.298087
+2033,W. 25th St & W. 5th AVE (Cotson Park),25.844368,-80.291939
+2034,W. 23rd ST & W. 3rd AVE,25.842637,-80.288076
 2035,W. 23rd ST & Palm Ave,25.842092,-80.282020
 2036,E. 1st Ave & E. 21st St (Metrorail Station),25.841013,-80.279739
-2037,Palm Ave & W. 19th ST,
-2038,Palm Ave & W. 13th ST,
-2039,Palm Ave & W. 5th St (City Hall),
-2041,W. 16th Ave & W. 68th ST 16,
+2037,Palm Ave & W. 19th ST,25.839087,-80.282060
+2038,Palm Ave & W. 13th ST,25.833710,-80.281849
+2039,Palm Ave & W. 5th St (City Hall),25.825840,-80.281529
+2041,W. 16th Ave & W. 68th ST,25.884272,-80.315994
 2042,W. 16th Ave & W. 67th ST,
-2043,W. 16th Ave & W. 60th ST,
-2044,W. 16th Ave & W. 54th ST (Epworth Village),
-2045,W. 16th Ave & W. 50th ST (Westland Mall),
-2046,W. 16th Ave & W. 44th PL,
-2047,W. 16th Ave & W. 40th ST,
-2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),
-2049,W. 16th Ave & Okeechobee,
-2050,W. 18th Ave & W. 35th ST (Westland Prom),
+2043,W. 16th Ave & W. 60th ST,25.877146,-80.315483
+2044,W. 16th Ave & W. 54th ST (Epworth Village),25.871591,-80.315139
+2045,W. 16th Ave & W. 50th ST (Westland Mall),25.868748,-80.314514
+2046,W. 16th Ave & W. 44th PL,25.862230,-80.314640
+2047,W. 16th Ave & W. 40th ST,25.857905,-80.314721
+2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135, -80.314593
+2049,W. 16th Ave & Okeechobee,25.848764,-80.314265
+2050,W. 18th Ave & W. 35th ST (Westland Prom),25.853223,-80.318894
 2051,W. 18th Ave & (Hialeah Speedway),
-2052,W. 18th Ave & W. 39th ST (Westland Prom),
-2053,W. 18th Ave & W. 43rd ST,
-2054,W. 18th Ave & W. 47th ST (MDCC),
-2055,W. 49th St. & NW 79th AVE,
+2052,W. 18th Ave & W. 39th ST (Westland Prom),25.857024,-80.318609
+2053,W. 18th Ave & W. 43rd ST,25.861442,-80.318757
+2054,W. 18th Ave & W. 47th ST (MDCC),25.864775,-80.320158
+2055,W. 49th St. & NW 79th AVE,25.866516,-80.300704
 2056,W. 24th Ave. & W. 52nd ST,
 2057,W. 24th Ave. & W. 56th ST (Buckey Dent),
 2058,W. 60th St. & W. 24th PI (Publix),
@@ -144,7 +144,22 @@ NO SIGNAGE FOUND:
 2010,E. 11th Ave & E. 26th ST (Metrorail),25.846552,-80.260086
 2011,E. 32nd ST & E. 10th AVE,25.851824,-80.262402
 2016,Palm Ave & E. 36th ST,25.855067,-80.282510
+2018,W. 44th PL & W. 4-5th AVE,25.862594,-80.291201
+2019,W. 44th PL & W. 10th AVE,25.862531,-80.302907
+2022,W. 18th Ave & W. 43rd ST,25.814747,-80.226160
+2023,W. 18th Ave & W. 39th ST,25.857024,-80.318609
+2025,W. 41st ST & W. 14th AVE,25.858896,-80.310634
+2026,W. 12th Ave. & W. 39th PL,25.857645,-80.306500
+2029,W. 12th Ave. & W. 24th ST,25.843931,-80.306310
+2030,West Access Rd (Metrorail Station),25.839839,-80.301052
+2031,W. 8th Ave. & W. 20th ST,25.840399,-80.297970
+2032,W. 8th Ave. & W. 25th ST (Telemundo),25.844158,-80.298087
+2033,W. 25th St & W. 5th AVE (Cotson Park),25.844368,-80.291939
+2034,W. 23rd ST & W. 3rd AVE,25.842637,-80.288076
 2036,E. 1st Ave & E. 21st St (Metrorail Station),25.841013,-80.279739
+2038,Palm Ave & W. 13th ST,25.833710,-80.281849
+2050,W. 18th Ave & W. 35th ST (Westland Prom),25.853223,-80.318894
+2055,W. 49th St. & NW 79th AVE,25.866516,-80.300704
 
 SIGN NOT CLEAR:
 1006,Palm Ave. & E. 23rd ST,25.842092,-80.282020
@@ -160,3 +175,11 @@ ONLY BENCH FOUND:
 1043,E. 4th Ave. & Hialeah Dr,25.822190,-80.273373
 1044,SE. 4th Ave & SE. 2nd ST,25.823740,-80.273261
 2015,E. 32nd ST & E. 2nd AVE,25.851212,-80.278876
+2017,W. 41st ST & Palm Ave,25.860159,-80.282904
+2020,W. 44th PL & W. 12th AVE,25.862743,-80.306834
+2021,W. 44th PL & W. 16th AVE,25.862750,-80.314863
+2028,W. 12th Ave. & W. 30th ST,25.848370,-80.306231
+2037,Palm Ave & W. 19th ST,25.839087,-80.282060
+2041,W. 16th Ave & W. 68th ST,25.884272,-80.315994
+2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135, -80.314593
+2049,W. 16th Ave & Okeechobee,25.848764,-80.314265
