@@ -107,16 +107,16 @@ stop_id,stop_name,stop_lat,stop_lon
 2063,W. 68th St. & W. 36th AVE,25.884178,-80.356199
 2064,W. 36th Ave. & W. 74th ST,25.889718,-80.355911
 2065,W. 76th St. & W. 32nd AVE,25.891427,-80.348851
-2066,W. 76th St. & W. 34th AVE,
-2067,W. 32nd Ave. & W. 80th ST (Casa Park),
-2068,W. 80th St. & W. 30th Ct,
-2069,W. 76th St. & W. 29th Way,
-2070,W. 76th St. & W. 27th AVE,
-2071,W. 76th St. & W. 24th AVE (Slade Park),
-2072,W. 24th Ave. & W. 72nd ST (Slade Park),
-2073,W. 68th St. & W. 24th AVE,
-2074,W. 68th St. & W. 20th AVE (Palmetto Hospital),
-2075,W. 68th St. & W. 17th CT (Paraiso Shopping Ctr.),
+2066,W. 76th St. & W. 34th AVE,25.891578,-80.352563
+2067,W. 32nd Ave. & W. 80th ST (Casa Park),25.895131,-80.348242
+2068,W. 80th St. & W. 30th Ct,25.895119,-80.345212
+2069,W. 76th St. & W. 29th Way,25.891505,-80.342723
+2070,W. 76th St. & W. 27th AVE,25.891493,-80.337968
+2071,W. 76th St. & W. 24th AVE (Slade Park),25.891489,-80.331987
+2072,W. 24th Ave. & W. 72nd ST (Slade Park),25.887897,-80.331850
+2073,W. 68th St. & W. 24th AVE,25.884277,-80.331413
+2074,W. 68th St. & W. 20th AVE (Palmetto Hospital),25.885211,-80.324793
+2075,W. 68th St. & W. 17th CT (Paraiso Shopping Ctr.),25.884203,-80.318462
 
 
 NO SIGNAGE FOUND:
@@ -135,7 +135,7 @@ NO SIGNAGE FOUND:
 1036,W. 8th Ave & W. 30th ST,25.848896,-80.298292
 1040,E. 21st ST & E. 2nd AVE (Metrorail Station),25.841013,-80.279739
 2002,E. 3rd ST & E. 1st AVE,25.8245333,-80.2794282
-2004,SE 8th Ave & Hialeah Dr,25.823066, -80.264715
+2004,SE 8th Ave & Hialeah Dr,25.823066,-80.264715
 2005,SE 8th ST & SE. 8th CT,25.815806,-80.263840
 2006,SE 10th Ave & SE. 4th ST,25.826267,-80.261307
 2007,SE 10th Ave & Hialeah Dr.,25.823197,-80.261446
@@ -164,6 +164,12 @@ NO SIGNAGE FOUND:
 2060,28th Ave. & W. 65th ST,25.834265,-80.241130
 2061,W. 68th St. & W. 29th WAY,25.835848,-80.241203
 2064,W. 36th Ave. & W. 74th ST,25.889718,-80.355911
+2067,W. 32nd Ave. & W. 80th ST (Casa Park),25.895131,-80.348242
+2068,W. 80th St. & W. 30th Ct,25.895119,-80.345212
+2069,W. 76th St. & W. 29th Way,25.891505,-80.342723
+2070,W. 76th St. & W. 27th AVE,25.891493,-80.337968
+2071,W. 76th St. & W. 24th AVE (Slade Park),25.891489,-80.331987
+2072,W. 24th Ave. & W. 72nd ST (Slade Park),25.887897,-80.331850
 
 SIGN NOT CLEAR:
 1006,Palm Ave. & E. 23rd ST,25.842092,-80.282020
@@ -185,7 +191,9 @@ ONLY BENCH FOUND:
 2028,W. 12th Ave. & W. 30th ST,25.848370,-80.306231
 2037,Palm Ave & W. 19th ST,25.839087,-80.282060
 2041,W. 16th Ave & W. 68th ST,25.884272,-80.315994
-2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135, -80.314593
+2048,W. 16th Ave & W. 35th ST (Hialeah Speedway),25.853135,-80.314593
 2049,W. 16th Ave & Okeechobee,25.848764,-80.314265
 2056,W. 24th Ave. & W. 52nd ST,25.870480,-80.330960
 2057,W. 24th Ave. & W. 56th ST (Buckey Dent),25.873684,-80.331323
+2073,W. 68th St. & W. 24th AVE,25.884277,-80.331413
+2075,W. 68th St. & W. 17th CT (Paraiso Shopping Ctr.),25.884203,-80.318462
