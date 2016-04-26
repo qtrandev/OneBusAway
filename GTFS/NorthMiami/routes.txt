@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_type
+A,Green Route,North Miami Green Route,3
+B,Orange Route,North Miami Orange Route,3
+C,Blue Route,North Miami Blue Route,3
+D,Red Route,North Miami Red Route,3

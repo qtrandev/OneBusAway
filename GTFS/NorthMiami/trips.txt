@@ -1,0 +1,7 @@
+route_id,service_id,trip_id,trip_headsign
+A,1,1,Green Route
+B,1,1,Orange Route
+C,1,2,Blue Route
+D,1,1,Red Route
+
+
