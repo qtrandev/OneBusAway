@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
-"",City of Sweetwater,http://www.cityofsweetwater.fl.gov/transit.html,America/New_York,en,"",""
+"",City of Opa-Locka,http://www.opalockafl.gov/index.aspx?NID=239,America/New_York,en,"",""
