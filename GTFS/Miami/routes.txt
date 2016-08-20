@@ -6,3 +6,6 @@ route_id,route_short_name,route_long_name,route_type
 3,Health District,Health District,3
 1,Overtown,Overtown,3
 4,Stadium,Stadium,3
+13,Coconut Grove,Coconut Grove,3
+12,Little Havana,Little Havana,3
+11,Wynwood,Wynwood,3
